@@ -1,0 +1,3 @@
+/Users/Icarus/Desktop/MiniSQL/code/src/MiniSQL-Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Icarus/Desktop/MiniSQL/code/src/MiniSQL-Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Icarus/Desktop/MiniSQL/code/src/MiniSQL-Clion/cmake-build-debug/CMakeFiles/MiniSQL1_1_0.dir
